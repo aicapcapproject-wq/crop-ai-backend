@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/16PKIh6BNUtPwEuSq9KlCZzaVEcghqxuP
 """
 
-pip install flask_cors
+!pip install flask_cors
 
 import pandas as pd
 import joblib
